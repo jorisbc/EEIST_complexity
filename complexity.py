@@ -28,8 +28,6 @@ def M_to_Mhat(M):
 
     return M_hat, M_tilde
 
-    return M_tilde
-
 def Mtilde_to_complexity(M_tilde, M, type='eci'):
     # the PCI is the eigenvector associated with the second largest right eigenvalue of M_hat: M_hat * eci = lambda*eci
     # from the docs: a   eigvec[:,i] = eigval[i]        b   eigvec[:,i]
