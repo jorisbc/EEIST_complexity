@@ -16,4 +16,11 @@ Background reading
 - Hidalgo & Hausmann, 2009: https://doi.org/10.1073/pnas.0900943106
 - The atlas of economic complexity: https://atlas.cid.harvard.edu/
 
+Get started on local machine: open EEIST_workshop_complexity.ipynb and follow the instructions
+Get started online:
+1) Open google colab
+2) Open new notebook from GitHub: search for https://github.com/jorisbc/EEIST_complexity/blob/main/EEIST_workshop_complexity.ipynb
+3) follow the instructions on screen
+
+
 Joris Bücker
